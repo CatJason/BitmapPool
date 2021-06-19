@@ -1,0 +1,3 @@
+include ':pool'
+include ':app'
+rootProject.name = "BitmapPool"
